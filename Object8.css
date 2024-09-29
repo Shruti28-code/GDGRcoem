@@ -1,0 +1,163 @@
+.obj8{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.faq{
+    width: 149px;
+  height: 90px;
+  top: 5373px;
+  left: 640px;
+  gap: 0px;
+  opacity: 0px;
+  align-items: center;
+  color: #5F5F5F;
+  
+  }
+  .faq1{
+    width: 620px;
+height: 300px;
+gap: 0px;
+opacity: 0px;
+margin-top: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.faqa{
+    height: 32px;
+    width: 470px;
+  
+   border-radius: 70px;
+   font-size: 18.5px;
+   font-family: product sans-serif;
+   word-spacing: 2px;
+   color: #5F5F5F;
+   border: 10px solid  #E1E1E1
+   ;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+   }
+   .faqb1{
+    margin-top: 20px;
+    height: max-content;
+    width: 400px;
+   
+    border: 7px solid  #E1E1E1;
+    border-radius: 20px;
+    font-size: 18.5px;
+    font-family: product sans-serif;
+    word-spacing: 2px;
+    color: #5F5F5F;
+    text-align:  center;
+    overflow: visible;
+    border-left-color:  #DB4437
+    ;
+   }
+   .faqb2{
+    margin-top: 20px;
+    height: max-content;
+    width: 400px;
+   
+    border: 7px solid  #E1E1E1;
+    border-radius: 20px;
+    font-size: 18.5px;
+    font-family: product sans-serif;
+    word-spacing: 2px;
+    color: #5F5F5F;
+    text-align:  center;
+    overflow: visible;
+    border-left-color: #0F9D56
+    ;
+   }
+   .faqb3{
+    margin-top: 20px;
+    height: max-content;
+    width: 400px;
+   
+    border: 7px solid  #E1E1E1;
+    border-radius: 20px;
+    font-size: 18.5px;
+    font-family: product sans-serif;
+    word-spacing: 2px;
+    color: #5F5F5F;
+    text-align:  center;
+    overflow: visible;
+    border-left-color: #4285F4;
+    
+
+    ;
+   }
+   .faqb4{
+    margin-top: 20px;
+    height: max-content;
+    width: 400px;
+   
+    border: 7px solid  #E1E1E1;
+    border-radius: 20px;
+    font-size: 18.5px;
+    font-family: product sans-serif;
+    word-spacing: 2px;
+    color: #5F5F5F;
+    text-align:  center;
+    overflow: visible;
+    border-left-color: #F4B400;
+   }
+   .faqb5{
+    margin-top: 20px;
+    height: max-content;
+    width: 400px;
+   
+    border: 7px solid  #E1E1E1;
+    border-radius: 20px;
+    font-size: 18.5px;
+    font-family: product sans-serif;
+    word-spacing: 2px;
+    color: #5F5F5F;
+    text-align:  center;
+    overflow: visible;
+    border-left-color:  #DB4437
+    ;
+   }
+   .arrow1{
+    color:#DB4437 ;
+   margin-left: -300PX;
+   font-size: xx-large;
+   font-weight: bolder;
+   rotate: 90deg;
+   margin-right: 20PX;
+   }
+   .arrow2{
+    color: #0F9D56 ;
+   margin-left: -100PX;
+   font-size: xx-large;
+   font-weight: bolder;
+   rotate: 90deg;
+   margin-right: 20PX;
+   }
+   .arrow3{
+    color:#4285F4 ;
+   margin-left: -170PX;
+   font-size: xx-large;
+   font-weight: bolder;
+   rotate: 90deg;
+   margin-right: 20PX;
+   }
+   .arrow4{
+    color: #F4B400;
+   margin-left: -150PX;
+   font-size: xx-large;
+   font-weight: bolder;
+   rotate: 90deg;
+   margin-right: 20PX;
+   }
+   .arrow5{
+    color:#DB4437 ;
+   margin-left: -260PX;
+   font-size: xx-large;
+   font-weight: bolder;
+   rotate: 90deg;
+   margin-right: 20PX;
+   }

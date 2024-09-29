@@ -1,0 +1,64 @@
+.objectTwo{
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+
+    
+}
+
+
+.v1{
+    margin-top: 12px;
+    width:50px;
+    height: 30px;
+}
+.v2{
+    margin-top: 10px;
+    width:50px;
+    height: 30px;
+}
+.v3{
+    margin-top: 10px;
+    width:50px;
+    height: 30px;
+}
+.btn{
+width: 180px;
+height: 45px;
+top: 1000px;
+left: 665px;
+gap: 0px;
+border-radius: 6.6px 6.6px 6.6px 6.6px;
+opacity: 0px;
+background: #3686F7;
+border: none;
+font-family: Open Sans;
+font-size: 25px;
+font-weight: 800;
+line-height: 40.85px;
+text-align: center;
+color: #FFFFFF;
+margin-top: -20px;
+}
+.para2{
+    width: 430px;
+height: 90px;
+top: 1279px;
+left: 512px;
+gap: 0px;
+opacity: 0px;
+font-family: Product Sans;
+font-size: 35px;
+font-weight: 700;
+line-height: 90px;
+letter-spacing: -0.022em;
+text-align: center;
+color : #5F5F5F;
+margin-top: -10px;
+text-decoration: none;
+
+}
+.para2a{
+    text-decoration: none;
+    color : #5F5F5F;
+}

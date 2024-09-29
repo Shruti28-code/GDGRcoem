@@ -1,0 +1,124 @@
+.line{
+    width: 965px;
+height: 0px;
+top: 4538px;
+left: 82px;
+gap: 0px;
+border: 3px 0px 0px 0px;
+opacity: 0px;
+border: 3px solid #FF6060;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.obj7{
+    margin-top: 140px;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+}
+.techbox{
+    width: 350px;
+height: 45px;
+gap: 0px;
+opacity: 0px;
+font-family: Product Sans;
+font-size: 30px;
+font-weight: 700;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color:white;
+
+}
+.techp{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: -0.022em;
+   
+}
+.line2{
+    font-family: Product Sans;
+font-size: 20px;
+font-weight: 400;
+line-height: 48px;
+letter-spacing: -0.011em;
+text-align: center;
+color: #5F5F5F;
+
+}
+.afc{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;}
+    
+.afc2{
+    box-shadow:  2px 5px 20px rgba(0, 0, 0, 0.5);;
+    width: 250px;
+    height: 180px;
+    top: 4832px;
+    left: 610px;
+    gap: 0px;
+    border-radius: 32px 32px 32px 32px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 40px;
+   margin-right: 40px;
+
+    }
+.afcimage{
+    margin-top: 6px;
+    width: 100px;
+    height: 100px;
+}
+.afcp{
+    width: 100px;
+height: 30px;
+display: flex;
+align-items: center;
+justify-content: center;
+opacity: 0px;
+color: #5F5F5F;
+font-family: Product Sans;
+font-size: 28px;
+font-weight: 400;
+line-height: 57.97px;
+text-align: center;
+margin-top: 4px;
+
+}
+.linea{
+    width: 120px;
+    height: 8px;
+    background-color: #DB4437;
+    border-radius: 10px;
+    margin-top: -5px;
+    
+}
+.linef{
+    width: 120px;
+    height: 8px;
+    background-color: #4285F4;
+
+    border-radius: 10px;
+    margin-top: -5px;
+    
+
+}
+.lineg{
+    width: 120px;
+    height: 8px;
+    background-color: #34A853;
+    border-radius: 10px;
+    margin-top: -5px;
+    
+}
+.vec{
+    width: 15px;
+    height: 10px;
+    margin-top: -15px;
+}

@@ -1,0 +1,67 @@
+.objectThree{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    margin-top: -40px;
+}
+.obj3Just{
+    display:flex;
+    flex-direction: row;
+    row-gap: 40px;
+    
+    margin-top: 25px;
+    
+}
+.obj3Just1{
+    width: 400px;
+height: 250px;
+top: 1554px;
+left: 84px;
+align-self: self-start;
+gap: 0px;
+opacity: 0px;
+margin-top: 20px;
+}
+.obj3Just2{
+    width: 400px;
+    height: 200px;
+    top: 1706px;
+    left: 682px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Product Sans;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: -0.022em;
+    text-align: right;
+   color :#5F5F5F;
+   align-self: flex-end;
+   margin-top: 70px;
+   margin-left: 100px;
+   
+
+}
+.obj3Just3{
+    width: 7.5px;
+height: 150px;
+top: 1689px;
+left: 1372px;
+gap: 0px;
+margin-top: 70px;
+margin-left: 10px;
+}
+.obj3H{
+    width: 185px;
+height: 50px;
+top: 1444px;
+left: 592px;
+gap: 0px;
+opacity: 0px;
+color: #5F5F5F;
+border-bottom:  4px solid #4285F4;
+margin-top:50px ;
+
+
+}
