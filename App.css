@@ -1,0 +1,23 @@
+body,
+html {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+ 
+}
+.main {
+  margin: 0%;
+  padding: 0%;
+  width: 100%;
+  height: 100%;
+}
+.faq{
+  width: 149px;
+height: 90px;
+margin-top: 150px;
+margin-left: 700px;
+opacity: 0px;
+text-align:center;
+color: #5F5F5F;
+
+}
