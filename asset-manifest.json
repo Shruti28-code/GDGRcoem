@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GDGRcoem/static/css/main.734aa153.css",
+    "main.js": "/GDGRcoem/static/js/main.1b88cebb.js",
+    "static/media/Footer.jpg": "/GDGRcoem/static/media/Footer.c6ce4130f758d325a308.jpg",
+    "static/media/object5img1.jpg": "/GDGRcoem/static/media/object5img1.fe5a7f92d24dba35386d.jpg",
+    "static/media/object3img1.jpg": "/GDGRcoem/static/media/object3img1.22646d222c53a0bbf664.jpg",
+    "static/media/object4img1.jpg": "/GDGRcoem/static/media/object4img1.fe8da6268c4cd2c56a8a.jpg",
+    "static/media/object.jpg": "/GDGRcoem/static/media/object.c6d583af612bb19296f2.jpg",
+    "static/media/google.jpg": "/GDGRcoem/static/media/google.70c1d64d4355a062ad3e.jpg",
+    "static/media/android.jpg": "/GDGRcoem/static/media/android.51a91eb6c37e876bf076.jpg",
+    "static/media/flutter.jpg": "/GDGRcoem/static/media/flutter.18e3b0a2659f7559fdfd.jpg",
+    "index.html": "/GDGRcoem/index.html",
+    "main.734aa153.css.map": "/GDGRcoem/static/css/main.734aa153.css.map",
+    "main.1b88cebb.js.map": "/GDGRcoem/static/js/main.1b88cebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.734aa153.css",
+    "static/js/main.1b88cebb.js"
+  ]
+}
